@@ -1,6 +1,6 @@
 # DAEDALUS Brace for Czech Nine (brace yo self fool!)
-by DB Firearms
-V2 - Mod (by hostile) : slight 5mm offset of brace
+by DB Firearms<br>
+V2 - Mod (by hostile) : slight 5mm offset of brace + Czech Nine adaptor
 
 "Quick fashion question, should I wear this Tec9 with the hightops, or the Uzi with the lowtops?<br>
 [![""](https://img.youtube.com/vi/78o5YE9A0MU/0.jpg)](https://www.youtube.com/watch?v=78o5YE9A0MU)
@@ -55,4 +55,5 @@ All of your issues related to the brace latching are likely a result of either s
 
 ## License
 Creative Commons Share-alike Non Commercial. Please don't share files during the beta process.
+
 
